@@ -4,7 +4,7 @@ Obowiązkowo wykluczacie z repozytoriów śmieci, np. .exe, .obj itp. [patrz: .g
 
 TN-8
 1.Miłosz Malczak, 212514, 20milosz
-2.
+2.Laura Jasińska, 201777, laurajas
 3.
 
 TP-8
